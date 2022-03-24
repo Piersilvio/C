@@ -1,0 +1,3 @@
+D:/programmazione/lavori c/ciambella/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/programmazione/lavori c/ciambella/cmake-build-debug/CMakeFiles/ciambella.dir
+D:/programmazione/lavori c/ciambella/cmake-build-debug/CMakeFiles/edit_cache.dir
